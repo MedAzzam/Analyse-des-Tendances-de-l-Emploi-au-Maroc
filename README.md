@@ -32,12 +32,12 @@ pip install -r requirements.txt
 ## Utilisation
 1. Exécuter l'analyse principale :
    ```python
-   python src/main.py
+   python src/script_main.py
    ```
 2. Ouvrir le dashboard Power BI dans `visualizations/dashboard.pbix`
 
 ## Technologies Utilisées
-- Python 3.8+
+- Python 3.12+
 - pandas, numpy pour l'analyse de données
 - scikit-learn pour le clustering
 - matplotlib, seaborn pour la visualisation
