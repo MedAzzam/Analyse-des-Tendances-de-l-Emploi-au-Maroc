@@ -1,361 +1,361 @@
 date,region,sector,job_offers,placements,avg_salary
-2023-01-31,Casablanca-Settat,Industrie,735,477,4886
-2023-02-28,Casablanca-Settat,Industrie,842,439,4912
-2023-03-31,Casablanca-Settat,Industrie,656,334,4918
-2023-04-30,Casablanca-Settat,Industrie,1085,474,4217
-2023-05-31,Casablanca-Settat,Industrie,948,408,5058
-2023-06-30,Casablanca-Settat,Industrie,965,688,5599
-2023-07-31,Casablanca-Settat,Industrie,743,570,5001
-2023-08-31,Casablanca-Settat,Industrie,740,355,4448
-2023-09-30,Casablanca-Settat,Industrie,572,337,4623
-2023-10-31,Casablanca-Settat,Industrie,871,684,4853
-2023-11-30,Casablanca-Settat,Industrie,1106,770,5532
-2023-12-31,Casablanca-Settat,Industrie,502,259,5617
-2023-01-31,Casablanca-Settat,Services,532,387,7221
-2023-02-28,Casablanca-Settat,Services,735,394,6183
-2023-03-31,Casablanca-Settat,Services,751,348,5621
-2023-04-30,Casablanca-Settat,Services,598,275,7112
-2023-05-31,Casablanca-Settat,Services,751,589,6444
-2023-06-30,Casablanca-Settat,Services,589,319,6283
-2023-07-31,Casablanca-Settat,Services,931,727,6040
-2023-08-31,Casablanca-Settat,Services,456,354,6011
-2023-09-30,Casablanca-Settat,Services,608,353,5490
-2023-10-31,Casablanca-Settat,Services,1021,563,6088
-2023-11-30,Casablanca-Settat,Services,920,609,7057
-2023-12-31,Casablanca-Settat,Services,586,396,7199
-2023-01-31,Casablanca-Settat,Agriculture,699,425,5103
-2023-02-28,Casablanca-Settat,Agriculture,692,293,4438
-2023-03-31,Casablanca-Settat,Agriculture,1202,825,5076
-2023-04-30,Casablanca-Settat,Agriculture,1073,657,4817
-2023-05-31,Casablanca-Settat,Agriculture,804,500,5274
-2023-06-30,Casablanca-Settat,Agriculture,907,484,4446
-2023-07-31,Casablanca-Settat,Agriculture,678,401,4443
-2023-08-31,Casablanca-Settat,Agriculture,631,423,4578
-2023-09-30,Casablanca-Settat,Agriculture,1187,872,5207
-2023-10-31,Casablanca-Settat,Agriculture,1026,457,5430
-2023-11-30,Casablanca-Settat,Agriculture,867,644,5610
-2023-12-31,Casablanca-Settat,Agriculture,674,311,4679
-2023-01-31,Casablanca-Settat,Technologies,1229,973,8412
-2023-02-28,Casablanca-Settat,Technologies,632,357,7799
-2023-03-31,Casablanca-Settat,Technologies,693,348,9180
-2023-04-30,Casablanca-Settat,Technologies,977,716,8834
-2023-05-31,Casablanca-Settat,Technologies,637,334,7565
-2023-06-30,Casablanca-Settat,Technologies,886,460,8448
-2023-07-31,Casablanca-Settat,Technologies,944,712,8003
-2023-08-31,Casablanca-Settat,Technologies,790,600,8598
-2023-09-30,Casablanca-Settat,Technologies,963,577,8719
-2023-10-31,Casablanca-Settat,Technologies,681,447,8041
-2023-11-30,Casablanca-Settat,Technologies,603,431,8828
-2023-12-31,Casablanca-Settat,Technologies,719,464,9299
-2023-01-31,Casablanca-Settat,Tourisme,517,209,5475
-2023-02-28,Casablanca-Settat,Tourisme,651,457,4881
-2023-03-31,Casablanca-Settat,Tourisme,685,529,5163
-2023-04-30,Casablanca-Settat,Tourisme,715,347,5281
-2023-05-31,Casablanca-Settat,Tourisme,935,451,4871
-2023-06-30,Casablanca-Settat,Tourisme,932,599,5177
-2023-07-31,Casablanca-Settat,Tourisme,1270,725,5482
-2023-08-31,Casablanca-Settat,Tourisme,865,673,4942
-2023-09-30,Casablanca-Settat,Tourisme,809,386,5252
-2023-10-31,Casablanca-Settat,Tourisme,704,414,5955
-2023-11-30,Casablanca-Settat,Tourisme,466,205,4301
-2023-12-31,Casablanca-Settat,Tourisme,666,351,5675
-2023-01-31,Rabat-Salé-Kénitra,Industrie,752,384,4935
-2023-02-28,Rabat-Salé-Kénitra,Industrie,865,564,4883
-2023-03-31,Rabat-Salé-Kénitra,Industrie,663,369,4877
-2023-04-30,Rabat-Salé-Kénitra,Industrie,576,427,4733
-2023-05-31,Rabat-Salé-Kénitra,Industrie,579,383,4364
-2023-06-30,Rabat-Salé-Kénitra,Industrie,827,407,4803
-2023-07-31,Rabat-Salé-Kénitra,Industrie,626,364,5420
-2023-08-31,Rabat-Salé-Kénitra,Industrie,647,412,4897
-2023-09-30,Rabat-Salé-Kénitra,Industrie,405,176,4710
-2023-10-31,Rabat-Salé-Kénitra,Industrie,681,515,5917
-2023-11-30,Rabat-Salé-Kénitra,Industrie,472,352,5293
-2023-12-31,Rabat-Salé-Kénitra,Industrie,678,441,5223
-2023-01-31,Rabat-Salé-Kénitra,Services,621,336,5441
-2023-02-28,Rabat-Salé-Kénitra,Services,571,229,6487
-2023-03-31,Rabat-Salé-Kénitra,Services,556,433,7429
-2023-04-30,Rabat-Salé-Kénitra,Services,882,416,5586
-2023-05-31,Rabat-Salé-Kénitra,Services,667,528,6051
-2023-06-30,Rabat-Salé-Kénitra,Services,787,393,6243
-2023-07-31,Rabat-Salé-Kénitra,Services,678,512,6899
-2023-08-31,Rabat-Salé-Kénitra,Services,835,449,6842
-2023-09-30,Rabat-Salé-Kénitra,Services,619,273,6776
-2023-10-31,Rabat-Salé-Kénitra,Services,578,365,4805
-2023-11-30,Rabat-Salé-Kénitra,Services,596,440,5840
-2023-12-31,Rabat-Salé-Kénitra,Services,763,328,5904
-2023-01-31,Rabat-Salé-Kénitra,Agriculture,511,395,5025
-2023-02-28,Rabat-Salé-Kénitra,Agriculture,684,306,4734
-2023-03-31,Rabat-Salé-Kénitra,Agriculture,861,473,4992
-2023-04-30,Rabat-Salé-Kénitra,Agriculture,749,333,4657
-2023-05-31,Rabat-Salé-Kénitra,Agriculture,795,337,4947
-2023-06-30,Rabat-Salé-Kénitra,Agriculture,424,178,5657
-2023-07-31,Rabat-Salé-Kénitra,Agriculture,685,395,5177
-2023-08-31,Rabat-Salé-Kénitra,Agriculture,604,280,4589
-2023-09-30,Rabat-Salé-Kénitra,Agriculture,817,414,5190
-2023-10-31,Rabat-Salé-Kénitra,Agriculture,887,471,4923
-2023-11-30,Rabat-Salé-Kénitra,Agriculture,434,331,4425
-2023-12-31,Rabat-Salé-Kénitra,Agriculture,883,369,5001
-2023-01-31,Rabat-Salé-Kénitra,Technologies,546,404,6522
-2023-02-28,Rabat-Salé-Kénitra,Technologies,545,359,7841
-2023-03-31,Rabat-Salé-Kénitra,Technologies,490,340,8502
-2023-04-30,Rabat-Salé-Kénitra,Technologies,537,269,8398
-2023-05-31,Rabat-Salé-Kénitra,Technologies,723,454,8441
-2023-06-30,Rabat-Salé-Kénitra,Technologies,652,269,8690
-2023-07-31,Rabat-Salé-Kénitra,Technologies,542,409,9491
-2023-08-31,Rabat-Salé-Kénitra,Technologies,624,488,8382
-2023-09-30,Rabat-Salé-Kénitra,Technologies,786,456,8479
-2023-10-31,Rabat-Salé-Kénitra,Technologies,557,349,7283
-2023-11-30,Rabat-Salé-Kénitra,Technologies,521,346,7566
-2023-12-31,Rabat-Salé-Kénitra,Technologies,567,429,7693
-2023-01-31,Rabat-Salé-Kénitra,Tourisme,448,221,5061
-2023-02-28,Rabat-Salé-Kénitra,Tourisme,587,414,5207
-2023-03-31,Rabat-Salé-Kénitra,Tourisme,618,361,5153
-2023-04-30,Rabat-Salé-Kénitra,Tourisme,720,522,4085
-2023-05-31,Rabat-Salé-Kénitra,Tourisme,649,434,4737
-2023-06-30,Rabat-Salé-Kénitra,Tourisme,588,365,5517
-2023-07-31,Rabat-Salé-Kénitra,Tourisme,877,578,5123
-2023-08-31,Rabat-Salé-Kénitra,Tourisme,827,616,4586
-2023-09-30,Rabat-Salé-Kénitra,Tourisme,571,235,4482
-2023-10-31,Rabat-Salé-Kénitra,Tourisme,704,537,4730
-2023-11-30,Rabat-Salé-Kénitra,Tourisme,749,396,5213
-2023-12-31,Rabat-Salé-Kénitra,Tourisme,701,298,5086
-2023-01-31,Fès-Meknès,Industrie,383,270,4076
-2023-02-28,Fès-Meknès,Industrie,654,384,5305
-2023-03-31,Fès-Meknès,Industrie,515,332,5873
-2023-04-30,Fès-Meknès,Industrie,607,431,5428
-2023-05-31,Fès-Meknès,Industrie,557,394,4980
-2023-06-30,Fès-Meknès,Industrie,639,369,4437
-2023-07-31,Fès-Meknès,Industrie,517,374,5138
-2023-08-31,Fès-Meknès,Industrie,444,217,3968
-2023-09-30,Fès-Meknès,Industrie,481,381,4005
-2023-10-31,Fès-Meknès,Industrie,339,214,5720
-2023-11-30,Fès-Meknès,Industrie,536,251,5950
-2023-12-31,Fès-Meknès,Industrie,593,360,4500
-2023-01-31,Fès-Meknès,Services,336,208,6221
-2023-02-28,Fès-Meknès,Services,452,228,5902
-2023-03-31,Fès-Meknès,Services,596,462,6760
-2023-04-30,Fès-Meknès,Services,401,187,7315
-2023-05-31,Fès-Meknès,Services,546,341,6185
-2023-06-30,Fès-Meknès,Services,542,251,5597
-2023-07-31,Fès-Meknès,Services,488,271,4985
-2023-08-31,Fès-Meknès,Services,558,269,6202
-2023-09-30,Fès-Meknès,Services,618,348,5792
-2023-10-31,Fès-Meknès,Services,371,272,5170
-2023-11-30,Fès-Meknès,Services,395,175,6301
-2023-12-31,Fès-Meknès,Services,534,221,5662
-2023-01-31,Fès-Meknès,Agriculture,617,300,6312
-2023-02-28,Fès-Meknès,Agriculture,405,323,5393
-2023-03-31,Fès-Meknès,Agriculture,549,345,4788
-2023-04-30,Fès-Meknès,Agriculture,655,434,5278
-2023-05-31,Fès-Meknès,Agriculture,420,283,5143
-2023-06-30,Fès-Meknès,Agriculture,547,296,4733
-2023-07-31,Fès-Meknès,Agriculture,496,355,5363
-2023-08-31,Fès-Meknès,Agriculture,436,246,4450
-2023-09-30,Fès-Meknès,Agriculture,837,517,5673
-2023-10-31,Fès-Meknès,Agriculture,595,357,4142
-2023-11-30,Fès-Meknès,Agriculture,447,188,4969
-2023-12-31,Fès-Meknès,Agriculture,504,357,5362
-2023-01-31,Fès-Meknès,Technologies,499,200,10259
-2023-02-28,Fès-Meknès,Technologies,538,236,8938
-2023-03-31,Fès-Meknès,Technologies,465,317,8561
-2023-04-30,Fès-Meknès,Technologies,555,248,8400
-2023-05-31,Fès-Meknès,Technologies,570,298,8680
-2023-06-30,Fès-Meknès,Technologies,477,320,7252
-2023-07-31,Fès-Meknès,Technologies,652,520,8364
-2023-08-31,Fès-Meknès,Technologies,530,271,7466
-2023-09-30,Fès-Meknès,Technologies,639,285,10273
-2023-10-31,Fès-Meknès,Technologies,592,382,8781
-2023-11-30,Fès-Meknès,Technologies,476,236,8122
-2023-12-31,Fès-Meknès,Technologies,513,362,8782
-2023-01-31,Fès-Meknès,Tourisme,411,216,5394
-2023-02-28,Fès-Meknès,Tourisme,538,425,4637
-2023-03-31,Fès-Meknès,Tourisme,632,338,5591
-2023-04-30,Fès-Meknès,Tourisme,486,366,5161
-2023-05-31,Fès-Meknès,Tourisme,283,127,4448
-2023-06-30,Fès-Meknès,Tourisme,641,402,3938
-2023-07-31,Fès-Meknès,Tourisme,725,336,5215
-2023-08-31,Fès-Meknès,Tourisme,640,445,4536
-2023-09-30,Fès-Meknès,Tourisme,648,434,5016
-2023-10-31,Fès-Meknès,Tourisme,655,511,4470
-2023-11-30,Fès-Meknès,Tourisme,300,143,4360
-2023-12-31,Fès-Meknès,Tourisme,481,384,5331
-2023-01-31,Marrakech-Safi,Industrie,633,371,4802
-2023-02-28,Marrakech-Safi,Industrie,510,282,5033
-2023-03-31,Marrakech-Safi,Industrie,379,228,5335
-2023-04-30,Marrakech-Safi,Industrie,586,370,4217
-2023-05-31,Marrakech-Safi,Industrie,422,304,4856
-2023-06-30,Marrakech-Safi,Industrie,311,242,6054
-2023-07-31,Marrakech-Safi,Industrie,489,226,5315
-2023-08-31,Marrakech-Safi,Industrie,401,318,4161
-2023-09-30,Marrakech-Safi,Industrie,454,347,4655
-2023-10-31,Marrakech-Safi,Industrie,478,203,4960
-2023-11-30,Marrakech-Safi,Industrie,578,291,4983
-2023-12-31,Marrakech-Safi,Industrie,517,297,5011
-2023-01-31,Marrakech-Safi,Services,344,174,6131
-2023-02-28,Marrakech-Safi,Services,514,409,6676
-2023-03-31,Marrakech-Safi,Services,321,166,7415
-2023-04-30,Marrakech-Safi,Services,547,401,5779
-2023-05-31,Marrakech-Safi,Services,456,345,6125
-2023-06-30,Marrakech-Safi,Services,453,353,6364
-2023-07-31,Marrakech-Safi,Services,409,262,6287
-2023-08-31,Marrakech-Safi,Services,396,279,5761
-2023-09-30,Marrakech-Safi,Services,419,196,5805
-2023-10-31,Marrakech-Safi,Services,511,258,6423
-2023-11-30,Marrakech-Safi,Services,615,373,5159
-2023-12-31,Marrakech-Safi,Services,335,251,6459
-2023-01-31,Marrakech-Safi,Agriculture,482,273,4828
-2023-02-28,Marrakech-Safi,Agriculture,776,509,4589
-2023-03-31,Marrakech-Safi,Agriculture,458,259,6165
-2023-04-30,Marrakech-Safi,Agriculture,513,237,4340
-2023-05-31,Marrakech-Safi,Agriculture,390,238,4517
-2023-06-30,Marrakech-Safi,Agriculture,564,359,4349
-2023-07-31,Marrakech-Safi,Agriculture,639,414,5408
-2023-08-31,Marrakech-Safi,Agriculture,581,350,4568
-2023-09-30,Marrakech-Safi,Agriculture,841,600,4610
-2023-10-31,Marrakech-Safi,Agriculture,657,375,4474
-2023-11-30,Marrakech-Safi,Agriculture,339,187,5222
-2023-12-31,Marrakech-Safi,Agriculture,446,267,5731
-2023-01-31,Marrakech-Safi,Technologies,546,343,6943
-2023-02-28,Marrakech-Safi,Technologies,558,353,7857
-2023-03-31,Marrakech-Safi,Technologies,468,205,7348
-2023-04-30,Marrakech-Safi,Technologies,549,367,8689
-2023-05-31,Marrakech-Safi,Technologies,565,288,7159
-2023-06-30,Marrakech-Safi,Technologies,614,439,6936
-2023-07-31,Marrakech-Safi,Technologies,625,256,8600
-2023-08-31,Marrakech-Safi,Technologies,496,224,6156
-2023-09-30,Marrakech-Safi,Technologies,754,426,6939
-2023-10-31,Marrakech-Safi,Technologies,329,175,8639
-2023-11-30,Marrakech-Safi,Technologies,703,431,7377
-2023-12-31,Marrakech-Safi,Technologies,552,431,8739
-2023-01-31,Marrakech-Safi,Tourisme,410,185,4125
-2023-02-28,Marrakech-Safi,Tourisme,535,225,5762
-2023-03-31,Marrakech-Safi,Tourisme,450,217,5197
-2023-04-30,Marrakech-Safi,Tourisme,510,243,5187
-2023-05-31,Marrakech-Safi,Tourisme,433,184,5062
-2023-06-30,Marrakech-Safi,Tourisme,566,241,5188
-2023-07-31,Marrakech-Safi,Tourisme,676,529,5410
-2023-08-31,Marrakech-Safi,Tourisme,522,263,5532
-2023-09-30,Marrakech-Safi,Tourisme,595,443,6032
-2023-10-31,Marrakech-Safi,Tourisme,630,409,4497
-2023-11-30,Marrakech-Safi,Tourisme,649,365,4173
-2023-12-31,Marrakech-Safi,Tourisme,716,490,4714
-2023-01-31,Tanger-Tétouan-Al Hoceïma,Industrie,482,274,4618
-2023-02-28,Tanger-Tétouan-Al Hoceïma,Industrie,404,262,5150
-2023-03-31,Tanger-Tétouan-Al Hoceïma,Industrie,407,239,4362
-2023-04-30,Tanger-Tétouan-Al Hoceïma,Industrie,406,184,5122
-2023-05-31,Tanger-Tétouan-Al Hoceïma,Industrie,471,249,5220
-2023-06-30,Tanger-Tétouan-Al Hoceïma,Industrie,420,219,4915
-2023-07-31,Tanger-Tétouan-Al Hoceïma,Industrie,659,362,4611
-2023-08-31,Tanger-Tétouan-Al Hoceïma,Industrie,494,362,4707
-2023-09-30,Tanger-Tétouan-Al Hoceïma,Industrie,536,240,4965
-2023-10-31,Tanger-Tétouan-Al Hoceïma,Industrie,661,409,4991
-2023-11-30,Tanger-Tétouan-Al Hoceïma,Industrie,651,469,4831
-2023-12-31,Tanger-Tétouan-Al Hoceïma,Industrie,427,238,5050
-2023-01-31,Tanger-Tétouan-Al Hoceïma,Services,614,307,4851
-2023-02-28,Tanger-Tétouan-Al Hoceïma,Services,380,197,5463
-2023-03-31,Tanger-Tétouan-Al Hoceïma,Services,506,347,5508
-2023-04-30,Tanger-Tétouan-Al Hoceïma,Services,326,244,6803
-2023-05-31,Tanger-Tétouan-Al Hoceïma,Services,551,283,5616
-2023-06-30,Tanger-Tétouan-Al Hoceïma,Services,469,205,6137
-2023-07-31,Tanger-Tétouan-Al Hoceïma,Services,600,271,6162
-2023-08-31,Tanger-Tétouan-Al Hoceïma,Services,525,238,7427
-2023-09-30,Tanger-Tétouan-Al Hoceïma,Services,385,234,6853
-2023-10-31,Tanger-Tétouan-Al Hoceïma,Services,516,317,5861
-2023-11-30,Tanger-Tétouan-Al Hoceïma,Services,349,186,7285
-2023-12-31,Tanger-Tétouan-Al Hoceïma,Services,342,143,6214
-2023-01-31,Tanger-Tétouan-Al Hoceïma,Agriculture,477,206,5136
-2023-02-28,Tanger-Tétouan-Al Hoceïma,Agriculture,297,177,4688
-2023-03-31,Tanger-Tétouan-Al Hoceïma,Agriculture,545,428,5590
-2023-04-30,Tanger-Tétouan-Al Hoceïma,Agriculture,519,232,5783
-2023-05-31,Tanger-Tétouan-Al Hoceïma,Agriculture,441,259,4044
-2023-06-30,Tanger-Tétouan-Al Hoceïma,Agriculture,617,371,4598
-2023-07-31,Tanger-Tétouan-Al Hoceïma,Agriculture,436,263,4883
-2023-08-31,Tanger-Tétouan-Al Hoceïma,Agriculture,418,205,5084
-2023-09-30,Tanger-Tétouan-Al Hoceïma,Agriculture,706,358,4906
-2023-10-31,Tanger-Tétouan-Al Hoceïma,Agriculture,563,369,5303
-2023-11-30,Tanger-Tétouan-Al Hoceïma,Agriculture,412,263,4985
-2023-12-31,Tanger-Tétouan-Al Hoceïma,Agriculture,623,415,4569
-2023-01-31,Tanger-Tétouan-Al Hoceïma,Technologies,509,213,6764
-2023-02-28,Tanger-Tétouan-Al Hoceïma,Technologies,551,240,8081
-2023-03-31,Tanger-Tétouan-Al Hoceïma,Technologies,561,338,8828
-2023-04-30,Tanger-Tétouan-Al Hoceïma,Technologies,370,264,8648
-2023-05-31,Tanger-Tétouan-Al Hoceïma,Technologies,725,521,7921
-2023-06-30,Tanger-Tétouan-Al Hoceïma,Technologies,564,398,7799
-2023-07-31,Tanger-Tétouan-Al Hoceïma,Technologies,453,193,7598
-2023-08-31,Tanger-Tétouan-Al Hoceïma,Technologies,520,302,6827
-2023-09-30,Tanger-Tétouan-Al Hoceïma,Technologies,720,499,7673
-2023-10-31,Tanger-Tétouan-Al Hoceïma,Technologies,455,263,8536
-2023-11-30,Tanger-Tétouan-Al Hoceïma,Technologies,558,272,7938
-2023-12-31,Tanger-Tétouan-Al Hoceïma,Technologies,437,322,8615
-2023-01-31,Tanger-Tétouan-Al Hoceïma,Tourisme,399,287,4565
-2023-02-28,Tanger-Tétouan-Al Hoceïma,Tourisme,454,195,5097
-2023-03-31,Tanger-Tétouan-Al Hoceïma,Tourisme,501,352,5316
-2023-04-30,Tanger-Tétouan-Al Hoceïma,Tourisme,687,541,5231
-2023-05-31,Tanger-Tétouan-Al Hoceïma,Tourisme,438,212,4487
-2023-06-30,Tanger-Tétouan-Al Hoceïma,Tourisme,680,298,4895
-2023-07-31,Tanger-Tétouan-Al Hoceïma,Tourisme,712,407,5274
-2023-08-31,Tanger-Tétouan-Al Hoceïma,Tourisme,872,411,4040
-2023-09-30,Tanger-Tétouan-Al Hoceïma,Tourisme,600,385,5007
-2023-10-31,Tanger-Tétouan-Al Hoceïma,Tourisme,462,321,5336
-2023-11-30,Tanger-Tétouan-Al Hoceïma,Tourisme,489,250,5289
-2023-12-31,Tanger-Tétouan-Al Hoceïma,Tourisme,378,302,4778
-2023-01-31,Souss-Massa,Industrie,515,272,4837
-2023-02-28,Souss-Massa,Industrie,397,196,3930
-2023-03-31,Souss-Massa,Industrie,390,306,4781
-2023-04-30,Souss-Massa,Industrie,471,197,4851
-2023-05-31,Souss-Massa,Industrie,548,363,4846
-2023-06-30,Souss-Massa,Industrie,585,418,4815
-2023-07-31,Souss-Massa,Industrie,386,287,5336
-2023-08-31,Souss-Massa,Industrie,656,344,5268
-2023-09-30,Souss-Massa,Industrie,530,312,5098
-2023-10-31,Souss-Massa,Industrie,510,225,4890
-2023-11-30,Souss-Massa,Industrie,546,261,5471
-2023-12-31,Souss-Massa,Industrie,429,297,5126
-2023-01-31,Souss-Massa,Services,665,375,5146
-2023-02-28,Souss-Massa,Services,425,245,4873
-2023-03-31,Souss-Massa,Services,520,212,6142
-2023-04-30,Souss-Massa,Services,508,233,6503
-2023-05-31,Souss-Massa,Services,330,193,5683
-2023-06-30,Souss-Massa,Services,521,403,6555
-2023-07-31,Souss-Massa,Services,416,179,5861
-2023-08-31,Souss-Massa,Services,592,465,7201
-2023-09-30,Souss-Massa,Services,383,216,6087
-2023-10-31,Souss-Massa,Services,532,240,4995
-2023-11-30,Souss-Massa,Services,546,365,5810
-2023-12-31,Souss-Massa,Services,485,250,5191
-2023-01-31,Souss-Massa,Agriculture,567,451,4094
-2023-02-28,Souss-Massa,Agriculture,525,318,4187
-2023-03-31,Souss-Massa,Agriculture,574,427,4900
-2023-04-30,Souss-Massa,Agriculture,497,357,5144
-2023-05-31,Souss-Massa,Agriculture,538,293,4656
-2023-06-30,Souss-Massa,Agriculture,487,261,5692
-2023-07-31,Souss-Massa,Agriculture,599,402,4684
-2023-08-31,Souss-Massa,Agriculture,423,283,5370
-2023-09-30,Souss-Massa,Agriculture,650,440,5635
-2023-10-31,Souss-Massa,Agriculture,693,424,5228
-2023-11-30,Souss-Massa,Agriculture,408,210,4801
-2023-12-31,Souss-Massa,Agriculture,642,318,4512
-2023-01-31,Souss-Massa,Technologies,536,270,8285
-2023-02-28,Souss-Massa,Technologies,567,342,8378
-2023-03-31,Souss-Massa,Technologies,373,210,8860
-2023-04-30,Souss-Massa,Technologies,496,293,8987
-2023-05-31,Souss-Massa,Technologies,370,246,9655
-2023-06-30,Souss-Massa,Technologies,507,225,7689
-2023-07-31,Souss-Massa,Technologies,588,328,8862
-2023-08-31,Souss-Massa,Technologies,608,388,8141
-2023-09-30,Souss-Massa,Technologies,551,374,8029
-2023-10-31,Souss-Massa,Technologies,592,439,7166
-2023-11-30,Souss-Massa,Technologies,547,247,8160
-2023-12-31,Souss-Massa,Technologies,549,228,8477
-2023-01-31,Souss-Massa,Tourisme,316,161,4346
-2023-02-28,Souss-Massa,Tourisme,216,155,4637
-2023-03-31,Souss-Massa,Tourisme,524,337,5515
-2023-04-30,Souss-Massa,Tourisme,454,274,5376
-2023-05-31,Souss-Massa,Tourisme,522,303,5061
-2023-06-30,Souss-Massa,Tourisme,725,360,4769
-2023-07-31,Souss-Massa,Tourisme,600,257,4989
-2023-08-31,Souss-Massa,Tourisme,807,442,5365
-2023-09-30,Souss-Massa,Tourisme,309,148,4804
-2023-10-31,Souss-Massa,Tourisme,486,210,4777
-2023-11-30,Souss-Massa,Tourisme,439,279,3656
-2023-12-31,Souss-Massa,Tourisme,594,336,5053
+2023-01-31,Casablanca-Settat,Industrie,880,486,4548
+2023-02-28,Casablanca-Settat,Industrie,627,399,4089
+2023-03-31,Casablanca-Settat,Industrie,577,428,4957
+2023-04-30,Casablanca-Settat,Industrie,575,337,5821
+2023-05-31,Casablanca-Settat,Industrie,613,286,3855
+2023-06-30,Casablanca-Settat,Industrie,664,499,5384
+2023-07-31,Casablanca-Settat,Industrie,878,396,5332
+2023-08-31,Casablanca-Settat,Industrie,766,391,5033
+2023-09-30,Casablanca-Settat,Industrie,810,342,4907
+2023-10-31,Casablanca-Settat,Industrie,641,446,4611
+2023-11-30,Casablanca-Settat,Industrie,671,493,4986
+2023-12-31,Casablanca-Settat,Industrie,667,387,5156
+2023-01-31,Casablanca-Settat,Services,889,403,6749
+2023-02-28,Casablanca-Settat,Services,600,325,7888
+2023-03-31,Casablanca-Settat,Services,793,587,6085
+2023-04-30,Casablanca-Settat,Services,822,372,5245
+2023-05-31,Casablanca-Settat,Services,743,441,5767
+2023-06-30,Casablanca-Settat,Services,701,531,6010
+2023-07-31,Casablanca-Settat,Services,890,612,6895
+2023-08-31,Casablanca-Settat,Services,604,423,5870
+2023-09-30,Casablanca-Settat,Services,664,500,6118
+2023-10-31,Casablanca-Settat,Services,787,611,6525
+2023-11-30,Casablanca-Settat,Services,774,364,6270
+2023-12-31,Casablanca-Settat,Services,681,360,5406
+2023-01-31,Casablanca-Settat,Agriculture,1003,776,4868
+2023-02-28,Casablanca-Settat,Agriculture,666,370,5184
+2023-03-31,Casablanca-Settat,Agriculture,1005,533,5760
+2023-04-30,Casablanca-Settat,Agriculture,838,669,5087
+2023-05-31,Casablanca-Settat,Agriculture,1039,626,5357
+2023-06-30,Casablanca-Settat,Agriculture,708,565,5834
+2023-07-31,Casablanca-Settat,Agriculture,559,433,4928
+2023-08-31,Casablanca-Settat,Agriculture,698,359,4740
+2023-09-30,Casablanca-Settat,Agriculture,1225,648,4970
+2023-10-31,Casablanca-Settat,Agriculture,912,704,4743
+2023-11-30,Casablanca-Settat,Agriculture,819,412,6250
+2023-12-31,Casablanca-Settat,Agriculture,876,548,5155
+2023-01-31,Casablanca-Settat,Technologies,1078,438,8001
+2023-02-28,Casablanca-Settat,Technologies,544,347,8066
+2023-03-31,Casablanca-Settat,Technologies,807,642,8484
+2023-04-30,Casablanca-Settat,Technologies,785,495,8441
+2023-05-31,Casablanca-Settat,Technologies,581,375,8388
+2023-06-30,Casablanca-Settat,Technologies,881,426,7944
+2023-07-31,Casablanca-Settat,Technologies,951,482,8138
+2023-08-31,Casablanca-Settat,Technologies,683,546,7309
+2023-09-30,Casablanca-Settat,Technologies,1190,622,7960
+2023-10-31,Casablanca-Settat,Technologies,656,420,8958
+2023-11-30,Casablanca-Settat,Technologies,740,441,7424
+2023-12-31,Casablanca-Settat,Technologies,888,534,7021
+2023-01-31,Casablanca-Settat,Tourisme,716,340,4833
+2023-02-28,Casablanca-Settat,Tourisme,595,418,5001
+2023-03-31,Casablanca-Settat,Tourisme,651,411,3666
+2023-04-30,Casablanca-Settat,Tourisme,641,314,4889
+2023-05-31,Casablanca-Settat,Tourisme,1004,409,4673
+2023-06-30,Casablanca-Settat,Tourisme,1326,561,4811
+2023-07-31,Casablanca-Settat,Tourisme,1006,455,5219
+2023-08-31,Casablanca-Settat,Tourisme,1270,809,5069
+2023-09-30,Casablanca-Settat,Tourisme,926,406,4996
+2023-10-31,Casablanca-Settat,Tourisme,760,528,5333
+2023-11-30,Casablanca-Settat,Tourisme,996,734,6557
+2023-12-31,Casablanca-Settat,Tourisme,505,400,5032
+2023-01-31,Rabat-Salé-Kénitra,Industrie,729,481,5607
+2023-02-28,Rabat-Salé-Kénitra,Industrie,666,377,4203
+2023-03-31,Rabat-Salé-Kénitra,Industrie,485,384,4675
+2023-04-30,Rabat-Salé-Kénitra,Industrie,935,625,5608
+2023-05-31,Rabat-Salé-Kénitra,Industrie,674,400,5193
+2023-06-30,Rabat-Salé-Kénitra,Industrie,465,368,5706
+2023-07-31,Rabat-Salé-Kénitra,Industrie,693,448,5847
+2023-08-31,Rabat-Salé-Kénitra,Industrie,897,714,3967
+2023-09-30,Rabat-Salé-Kénitra,Industrie,453,255,5115
+2023-10-31,Rabat-Salé-Kénitra,Industrie,472,278,5199
+2023-11-30,Rabat-Salé-Kénitra,Industrie,688,537,5499
+2023-12-31,Rabat-Salé-Kénitra,Industrie,493,254,4838
+2023-01-31,Rabat-Salé-Kénitra,Services,483,257,7355
+2023-02-28,Rabat-Salé-Kénitra,Services,427,179,5565
+2023-03-31,Rabat-Salé-Kénitra,Services,506,321,6355
+2023-04-30,Rabat-Salé-Kénitra,Services,788,433,6267
+2023-05-31,Rabat-Salé-Kénitra,Services,768,566,6016
+2023-06-30,Rabat-Salé-Kénitra,Services,759,513,5715
+2023-07-31,Rabat-Salé-Kénitra,Services,763,343,6437
+2023-08-31,Rabat-Salé-Kénitra,Services,740,549,4622
+2023-09-30,Rabat-Salé-Kénitra,Services,745,439,5501
+2023-10-31,Rabat-Salé-Kénitra,Services,610,439,5427
+2023-11-30,Rabat-Salé-Kénitra,Services,546,374,5780
+2023-12-31,Rabat-Salé-Kénitra,Services,573,423,5787
+2023-01-31,Rabat-Salé-Kénitra,Agriculture,790,553,5820
+2023-02-28,Rabat-Salé-Kénitra,Agriculture,647,451,5175
+2023-03-31,Rabat-Salé-Kénitra,Agriculture,1113,538,4338
+2023-04-30,Rabat-Salé-Kénitra,Agriculture,582,233,3968
+2023-05-31,Rabat-Salé-Kénitra,Agriculture,780,601,4393
+2023-06-30,Rabat-Salé-Kénitra,Agriculture,259,165,5513
+2023-07-31,Rabat-Salé-Kénitra,Agriculture,679,523,4993
+2023-08-31,Rabat-Salé-Kénitra,Agriculture,636,405,5599
+2023-09-30,Rabat-Salé-Kénitra,Agriculture,907,503,4647
+2023-10-31,Rabat-Salé-Kénitra,Agriculture,795,563,5225
+2023-11-30,Rabat-Salé-Kénitra,Agriculture,580,285,5599
+2023-12-31,Rabat-Salé-Kénitra,Agriculture,980,558,5310
+2023-01-31,Rabat-Salé-Kénitra,Technologies,811,388,8305
+2023-02-28,Rabat-Salé-Kénitra,Technologies,722,291,8238
+2023-03-31,Rabat-Salé-Kénitra,Technologies,873,693,7461
+2023-04-30,Rabat-Salé-Kénitra,Technologies,875,413,7854
+2023-05-31,Rabat-Salé-Kénitra,Technologies,695,369,8435
+2023-06-30,Rabat-Salé-Kénitra,Technologies,727,443,7790
+2023-07-31,Rabat-Salé-Kénitra,Technologies,938,576,7832
+2023-08-31,Rabat-Salé-Kénitra,Technologies,510,215,7527
+2023-09-30,Rabat-Salé-Kénitra,Technologies,677,338,6246
+2023-10-31,Rabat-Salé-Kénitra,Technologies,771,318,6772
+2023-11-30,Rabat-Salé-Kénitra,Technologies,804,345,8538
+2023-12-31,Rabat-Salé-Kénitra,Technologies,449,246,8335
+2023-01-31,Rabat-Salé-Kénitra,Tourisme,435,321,4790
+2023-02-28,Rabat-Salé-Kénitra,Tourisme,765,458,4471
+2023-03-31,Rabat-Salé-Kénitra,Tourisme,607,320,4439
+2023-04-30,Rabat-Salé-Kénitra,Tourisme,461,254,5345
+2023-05-31,Rabat-Salé-Kénitra,Tourisme,593,427,5134
+2023-06-30,Rabat-Salé-Kénitra,Tourisme,856,581,4986
+2023-07-31,Rabat-Salé-Kénitra,Tourisme,440,279,4865
+2023-08-31,Rabat-Salé-Kénitra,Tourisme,917,496,4451
+2023-09-30,Rabat-Salé-Kénitra,Tourisme,727,552,5237
+2023-10-31,Rabat-Salé-Kénitra,Tourisme,763,493,4842
+2023-11-30,Rabat-Salé-Kénitra,Tourisme,699,299,4266
+2023-12-31,Rabat-Salé-Kénitra,Tourisme,620,433,5421
+2023-01-31,Fès-Meknès,Industrie,592,368,4616
+2023-02-28,Fès-Meknès,Industrie,454,295,4934
+2023-03-31,Fès-Meknès,Industrie,525,340,5130
+2023-04-30,Fès-Meknès,Industrie,598,421,5091
+2023-05-31,Fès-Meknès,Industrie,436,310,4379
+2023-06-30,Fès-Meknès,Industrie,608,357,5134
+2023-07-31,Fès-Meknès,Industrie,441,298,4157
+2023-08-31,Fès-Meknès,Industrie,302,134,4960
+2023-09-30,Fès-Meknès,Industrie,562,428,5375
+2023-10-31,Fès-Meknès,Industrie,468,190,4321
+2023-11-30,Fès-Meknès,Industrie,361,170,4506
+2023-12-31,Fès-Meknès,Industrie,473,304,4950
+2023-01-31,Fès-Meknès,Services,417,239,6530
+2023-02-28,Fès-Meknès,Services,484,340,4901
+2023-03-31,Fès-Meknès,Services,501,293,5470
+2023-04-30,Fès-Meknès,Services,534,401,7103
+2023-05-31,Fès-Meknès,Services,434,270,6663
+2023-06-30,Fès-Meknès,Services,759,316,5502
+2023-07-31,Fès-Meknès,Services,469,347,6321
+2023-08-31,Fès-Meknès,Services,580,298,6087
+2023-09-30,Fès-Meknès,Services,587,322,5624
+2023-10-31,Fès-Meknès,Services,588,345,5973
+2023-11-30,Fès-Meknès,Services,403,260,5734
+2023-12-31,Fès-Meknès,Services,448,204,4987
+2023-01-31,Fès-Meknès,Agriculture,478,347,4758
+2023-02-28,Fès-Meknès,Agriculture,352,237,4790
+2023-03-31,Fès-Meknès,Agriculture,660,461,4410
+2023-04-30,Fès-Meknès,Agriculture,898,411,4535
+2023-05-31,Fès-Meknès,Agriculture,610,249,4231
+2023-06-30,Fès-Meknès,Agriculture,659,398,4722
+2023-07-31,Fès-Meknès,Agriculture,464,261,5037
+2023-08-31,Fès-Meknès,Agriculture,544,418,3842
+2023-09-30,Fès-Meknès,Agriculture,746,405,4698
+2023-10-31,Fès-Meknès,Agriculture,636,340,5308
+2023-11-30,Fès-Meknès,Agriculture,366,238,5980
+2023-12-31,Fès-Meknès,Agriculture,707,373,5346
+2023-01-31,Fès-Meknès,Technologies,640,340,6955
+2023-02-28,Fès-Meknès,Technologies,461,203,7260
+2023-03-31,Fès-Meknès,Technologies,540,227,7261
+2023-04-30,Fès-Meknès,Technologies,446,204,7802
+2023-05-31,Fès-Meknès,Technologies,636,317,8606
+2023-06-30,Fès-Meknès,Technologies,387,214,9195
+2023-07-31,Fès-Meknès,Technologies,422,200,7578
+2023-08-31,Fès-Meknès,Technologies,449,289,8323
+2023-09-30,Fès-Meknès,Technologies,785,624,8565
+2023-10-31,Fès-Meknès,Technologies,323,174,8367
+2023-11-30,Fès-Meknès,Technologies,416,226,8269
+2023-12-31,Fès-Meknès,Technologies,509,216,9076
+2023-01-31,Fès-Meknès,Tourisme,382,217,5174
+2023-02-28,Fès-Meknès,Tourisme,604,351,4476
+2023-03-31,Fès-Meknès,Tourisme,521,291,3766
+2023-04-30,Fès-Meknès,Tourisme,368,253,4156
+2023-05-31,Fès-Meknès,Tourisme,537,416,5367
+2023-06-30,Fès-Meknès,Tourisme,682,431,3958
+2023-07-31,Fès-Meknès,Tourisme,607,429,4086
+2023-08-31,Fès-Meknès,Tourisme,664,369,5190
+2023-09-30,Fès-Meknès,Tourisme,481,211,3991
+2023-10-31,Fès-Meknès,Tourisme,494,388,4433
+2023-11-30,Fès-Meknès,Tourisme,570,361,4315
+2023-12-31,Fès-Meknès,Tourisme,447,332,5579
+2023-01-31,Marrakech-Safi,Industrie,332,133,5235
+2023-02-28,Marrakech-Safi,Industrie,503,360,4574
+2023-03-31,Marrakech-Safi,Industrie,640,484,4763
+2023-04-30,Marrakech-Safi,Industrie,376,200,4347
+2023-05-31,Marrakech-Safi,Industrie,499,235,5009
+2023-06-30,Marrakech-Safi,Industrie,559,376,4513
+2023-07-31,Marrakech-Safi,Industrie,567,422,5247
+2023-08-31,Marrakech-Safi,Industrie,554,339,5686
+2023-09-30,Marrakech-Safi,Industrie,504,278,4824
+2023-10-31,Marrakech-Safi,Industrie,658,319,4530
+2023-11-30,Marrakech-Safi,Industrie,554,428,5669
+2023-12-31,Marrakech-Safi,Industrie,442,278,5480
+2023-01-31,Marrakech-Safi,Services,530,306,5280
+2023-02-28,Marrakech-Safi,Services,389,167,6662
+2023-03-31,Marrakech-Safi,Services,653,521,5038
+2023-04-30,Marrakech-Safi,Services,577,460,6500
+2023-05-31,Marrakech-Safi,Services,322,177,5385
+2023-06-30,Marrakech-Safi,Services,480,194,5216
+2023-07-31,Marrakech-Safi,Services,402,164,6011
+2023-08-31,Marrakech-Safi,Services,574,262,5773
+2023-09-30,Marrakech-Safi,Services,657,457,5079
+2023-10-31,Marrakech-Safi,Services,512,216,6112
+2023-11-30,Marrakech-Safi,Services,725,291,5715
+2023-12-31,Marrakech-Safi,Services,631,310,4905
+2023-01-31,Marrakech-Safi,Agriculture,593,370,5753
+2023-02-28,Marrakech-Safi,Agriculture,399,215,4369
+2023-03-31,Marrakech-Safi,Agriculture,625,317,4144
+2023-04-30,Marrakech-Safi,Agriculture,424,290,6330
+2023-05-31,Marrakech-Safi,Agriculture,398,212,5127
+2023-06-30,Marrakech-Safi,Agriculture,543,433,5071
+2023-07-31,Marrakech-Safi,Agriculture,688,466,4540
+2023-08-31,Marrakech-Safi,Agriculture,544,250,5129
+2023-09-30,Marrakech-Safi,Agriculture,779,572,4294
+2023-10-31,Marrakech-Safi,Agriculture,681,484,4988
+2023-11-30,Marrakech-Safi,Agriculture,405,223,4992
+2023-12-31,Marrakech-Safi,Agriculture,632,306,4526
+2023-01-31,Marrakech-Safi,Technologies,695,517,6717
+2023-02-28,Marrakech-Safi,Technologies,323,190,8160
+2023-03-31,Marrakech-Safi,Technologies,558,277,6605
+2023-04-30,Marrakech-Safi,Technologies,499,321,8486
+2023-05-31,Marrakech-Safi,Technologies,372,193,9541
+2023-06-30,Marrakech-Safi,Technologies,532,418,9511
+2023-07-31,Marrakech-Safi,Technologies,541,402,7112
+2023-08-31,Marrakech-Safi,Technologies,556,388,7619
+2023-09-30,Marrakech-Safi,Technologies,541,276,7708
+2023-10-31,Marrakech-Safi,Technologies,528,347,8620
+2023-11-30,Marrakech-Safi,Technologies,704,408,6603
+2023-12-31,Marrakech-Safi,Technologies,447,253,7748
+2023-01-31,Marrakech-Safi,Tourisme,271,192,4667
+2023-02-28,Marrakech-Safi,Tourisme,503,364,5169
+2023-03-31,Marrakech-Safi,Tourisme,565,239,4456
+2023-04-30,Marrakech-Safi,Tourisme,496,285,4736
+2023-05-31,Marrakech-Safi,Tourisme,499,259,5103
+2023-06-30,Marrakech-Safi,Tourisme,682,540,5209
+2023-07-31,Marrakech-Safi,Tourisme,527,405,4559
+2023-08-31,Marrakech-Safi,Tourisme,612,459,5329
+2023-09-30,Marrakech-Safi,Tourisme,601,365,4423
+2023-10-31,Marrakech-Safi,Tourisme,381,285,4883
+2023-11-30,Marrakech-Safi,Tourisme,520,353,5015
+2023-12-31,Marrakech-Safi,Tourisme,587,294,4382
+2023-01-31,Tanger-Tétouan-Al Hoceïma,Industrie,490,354,5446
+2023-02-28,Tanger-Tétouan-Al Hoceïma,Industrie,495,363,5020
+2023-03-31,Tanger-Tétouan-Al Hoceïma,Industrie,486,221,4406
+2023-04-30,Tanger-Tétouan-Al Hoceïma,Industrie,378,256,4259
+2023-05-31,Tanger-Tétouan-Al Hoceïma,Industrie,499,305,5766
+2023-06-30,Tanger-Tétouan-Al Hoceïma,Industrie,429,266,4496
+2023-07-31,Tanger-Tétouan-Al Hoceïma,Industrie,656,450,5558
+2023-08-31,Tanger-Tétouan-Al Hoceïma,Industrie,536,380,4466
+2023-09-30,Tanger-Tétouan-Al Hoceïma,Industrie,513,234,5647
+2023-10-31,Tanger-Tétouan-Al Hoceïma,Industrie,422,177,5325
+2023-11-30,Tanger-Tétouan-Al Hoceïma,Industrie,440,265,4625
+2023-12-31,Tanger-Tétouan-Al Hoceïma,Industrie,587,360,5033
+2023-01-31,Tanger-Tétouan-Al Hoceïma,Services,500,387,5957
+2023-02-28,Tanger-Tétouan-Al Hoceïma,Services,438,327,6534
+2023-03-31,Tanger-Tétouan-Al Hoceïma,Services,420,283,5447
+2023-04-30,Tanger-Tétouan-Al Hoceïma,Services,416,206,5870
+2023-05-31,Tanger-Tétouan-Al Hoceïma,Services,484,208,5274
+2023-06-30,Tanger-Tétouan-Al Hoceïma,Services,761,564,4885
+2023-07-31,Tanger-Tétouan-Al Hoceïma,Services,500,384,6593
+2023-08-31,Tanger-Tétouan-Al Hoceïma,Services,205,101,5327
+2023-09-30,Tanger-Tétouan-Al Hoceïma,Services,628,279,5419
+2023-10-31,Tanger-Tétouan-Al Hoceïma,Services,687,485,5864
+2023-11-30,Tanger-Tétouan-Al Hoceïma,Services,587,264,5900
+2023-12-31,Tanger-Tétouan-Al Hoceïma,Services,560,408,5521
+2023-01-31,Tanger-Tétouan-Al Hoceïma,Agriculture,438,264,5718
+2023-02-28,Tanger-Tétouan-Al Hoceïma,Agriculture,362,166,5768
+2023-03-31,Tanger-Tétouan-Al Hoceïma,Agriculture,764,503,5697
+2023-04-30,Tanger-Tétouan-Al Hoceïma,Agriculture,777,538,5406
+2023-05-31,Tanger-Tétouan-Al Hoceïma,Agriculture,591,350,5189
+2023-06-30,Tanger-Tétouan-Al Hoceïma,Agriculture,601,469,4900
+2023-07-31,Tanger-Tétouan-Al Hoceïma,Agriculture,541,408,4348
+2023-08-31,Tanger-Tétouan-Al Hoceïma,Agriculture,657,312,5087
+2023-09-30,Tanger-Tétouan-Al Hoceïma,Agriculture,665,514,4616
+2023-10-31,Tanger-Tétouan-Al Hoceïma,Agriculture,500,281,4882
+2023-11-30,Tanger-Tétouan-Al Hoceïma,Agriculture,451,229,5187
+2023-12-31,Tanger-Tétouan-Al Hoceïma,Agriculture,541,283,6043
+2023-01-31,Tanger-Tétouan-Al Hoceïma,Technologies,519,327,8819
+2023-02-28,Tanger-Tétouan-Al Hoceïma,Technologies,596,324,9054
+2023-03-31,Tanger-Tétouan-Al Hoceïma,Technologies,572,400,6383
+2023-04-30,Tanger-Tétouan-Al Hoceïma,Technologies,463,270,7114
+2023-05-31,Tanger-Tétouan-Al Hoceïma,Technologies,540,329,8652
+2023-06-30,Tanger-Tétouan-Al Hoceïma,Technologies,585,310,6528
+2023-07-31,Tanger-Tétouan-Al Hoceïma,Technologies,560,441,7393
+2023-08-31,Tanger-Tétouan-Al Hoceïma,Technologies,308,206,8282
+2023-09-30,Tanger-Tétouan-Al Hoceïma,Technologies,594,280,7653
+2023-10-31,Tanger-Tétouan-Al Hoceïma,Technologies,524,359,6791
+2023-11-30,Tanger-Tétouan-Al Hoceïma,Technologies,524,251,9059
+2023-12-31,Tanger-Tétouan-Al Hoceïma,Technologies,292,151,7199
+2023-01-31,Tanger-Tétouan-Al Hoceïma,Tourisme,288,127,5080
+2023-02-28,Tanger-Tétouan-Al Hoceïma,Tourisme,495,320,4653
+2023-03-31,Tanger-Tétouan-Al Hoceïma,Tourisme,351,163,4679
+2023-04-30,Tanger-Tétouan-Al Hoceïma,Tourisme,360,187,5865
+2023-05-31,Tanger-Tétouan-Al Hoceïma,Tourisme,375,270,3244
+2023-06-30,Tanger-Tétouan-Al Hoceïma,Tourisme,590,463,4809
+2023-07-31,Tanger-Tétouan-Al Hoceïma,Tourisme,540,415,5253
+2023-08-31,Tanger-Tétouan-Al Hoceïma,Tourisme,571,320,5025
+2023-09-30,Tanger-Tétouan-Al Hoceïma,Tourisme,563,440,4971
+2023-10-31,Tanger-Tétouan-Al Hoceïma,Tourisme,659,392,5634
+2023-11-30,Tanger-Tétouan-Al Hoceïma,Tourisme,461,214,5077
+2023-12-31,Tanger-Tétouan-Al Hoceïma,Tourisme,321,237,4465
+2023-01-31,Souss-Massa,Industrie,477,338,5055
+2023-02-28,Souss-Massa,Industrie,492,244,4489
+2023-03-31,Souss-Massa,Industrie,270,121,5111
+2023-04-30,Souss-Massa,Industrie,448,298,4958
+2023-05-31,Souss-Massa,Industrie,379,179,4594
+2023-06-30,Souss-Massa,Industrie,554,323,4563
+2023-07-31,Souss-Massa,Industrie,391,251,5067
+2023-08-31,Souss-Massa,Industrie,506,400,5081
+2023-09-30,Souss-Massa,Industrie,534,240,4508
+2023-10-31,Souss-Massa,Industrie,476,204,5599
+2023-11-30,Souss-Massa,Industrie,627,377,5982
+2023-12-31,Souss-Massa,Industrie,396,169,5763
+2023-01-31,Souss-Massa,Services,662,484,6826
+2023-02-28,Souss-Massa,Services,541,289,5230
+2023-03-31,Souss-Massa,Services,544,410,5160
+2023-04-30,Souss-Massa,Services,511,248,5515
+2023-05-31,Souss-Massa,Services,544,306,7658
+2023-06-30,Souss-Massa,Services,487,316,6455
+2023-07-31,Souss-Massa,Services,459,303,6391
+2023-08-31,Souss-Massa,Services,677,297,5615
+2023-09-30,Souss-Massa,Services,778,501,6373
+2023-10-31,Souss-Massa,Services,608,355,6122
+2023-11-30,Souss-Massa,Services,545,395,5452
+2023-12-31,Souss-Massa,Services,488,348,6680
+2023-01-31,Souss-Massa,Agriculture,495,218,5396
+2023-02-28,Souss-Massa,Agriculture,534,358,4416
+2023-03-31,Souss-Massa,Agriculture,896,639,5098
+2023-04-30,Souss-Massa,Agriculture,605,366,5819
+2023-05-31,Souss-Massa,Agriculture,454,356,5140
+2023-06-30,Souss-Massa,Agriculture,555,288,5035
+2023-07-31,Souss-Massa,Agriculture,442,232,5213
+2023-08-31,Souss-Massa,Agriculture,496,324,4896
+2023-09-30,Souss-Massa,Agriculture,768,588,5538
+2023-10-31,Souss-Massa,Agriculture,703,368,4875
+2023-11-30,Souss-Massa,Agriculture,522,234,5115
+2023-12-31,Souss-Massa,Agriculture,608,296,5061
+2023-01-31,Souss-Massa,Technologies,466,256,8376
+2023-02-28,Souss-Massa,Technologies,518,389,9380
+2023-03-31,Souss-Massa,Technologies,554,407,7336
+2023-04-30,Souss-Massa,Technologies,482,374,7877
+2023-05-31,Souss-Massa,Technologies,356,250,7677
+2023-06-30,Souss-Massa,Technologies,434,206,8287
+2023-07-31,Souss-Massa,Technologies,449,191,9540
+2023-08-31,Souss-Massa,Technologies,564,396,8629
+2023-09-30,Souss-Massa,Technologies,723,501,9423
+2023-10-31,Souss-Massa,Technologies,510,239,8505
+2023-11-30,Souss-Massa,Technologies,455,220,7073
+2023-12-31,Souss-Massa,Technologies,408,295,7459
+2023-01-31,Souss-Massa,Tourisme,301,222,5357
+2023-02-28,Souss-Massa,Tourisme,394,205,5208
+2023-03-31,Souss-Massa,Tourisme,493,320,5089
+2023-04-30,Souss-Massa,Tourisme,409,194,4825
+2023-05-31,Souss-Massa,Tourisme,435,237,5012
+2023-06-30,Souss-Massa,Tourisme,689,295,4572
+2023-07-31,Souss-Massa,Tourisme,770,575,4783
+2023-08-31,Souss-Massa,Tourisme,811,572,4647
+2023-09-30,Souss-Massa,Tourisme,321,210,5603
+2023-10-31,Souss-Massa,Tourisme,536,312,5113
+2023-11-30,Souss-Massa,Tourisme,503,325,5714
+2023-12-31,Souss-Massa,Tourisme,457,303,5431
