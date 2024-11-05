@@ -1,0 +1,361 @@
+date,region,sector,job_offers,placements,avg_salary
+2023-01-31,Casablanca-Settat,Industrie,735,477,4886
+2023-02-28,Casablanca-Settat,Industrie,842,439,4912
+2023-03-31,Casablanca-Settat,Industrie,656,334,4918
+2023-04-30,Casablanca-Settat,Industrie,1085,474,4217
+2023-05-31,Casablanca-Settat,Industrie,948,408,5058
+2023-06-30,Casablanca-Settat,Industrie,965,688,5599
+2023-07-31,Casablanca-Settat,Industrie,743,570,5001
+2023-08-31,Casablanca-Settat,Industrie,740,355,4448
+2023-09-30,Casablanca-Settat,Industrie,572,337,4623
+2023-10-31,Casablanca-Settat,Industrie,871,684,4853
+2023-11-30,Casablanca-Settat,Industrie,1106,770,5532
+2023-12-31,Casablanca-Settat,Industrie,502,259,5617
+2023-01-31,Casablanca-Settat,Services,532,387,7221
+2023-02-28,Casablanca-Settat,Services,735,394,6183
+2023-03-31,Casablanca-Settat,Services,751,348,5621
+2023-04-30,Casablanca-Settat,Services,598,275,7112
+2023-05-31,Casablanca-Settat,Services,751,589,6444
+2023-06-30,Casablanca-Settat,Services,589,319,6283
+2023-07-31,Casablanca-Settat,Services,931,727,6040
+2023-08-31,Casablanca-Settat,Services,456,354,6011
+2023-09-30,Casablanca-Settat,Services,608,353,5490
+2023-10-31,Casablanca-Settat,Services,1021,563,6088
+2023-11-30,Casablanca-Settat,Services,920,609,7057
+2023-12-31,Casablanca-Settat,Services,586,396,7199
+2023-01-31,Casablanca-Settat,Agriculture,699,425,5103
+2023-02-28,Casablanca-Settat,Agriculture,692,293,4438
+2023-03-31,Casablanca-Settat,Agriculture,1202,825,5076
+2023-04-30,Casablanca-Settat,Agriculture,1073,657,4817
+2023-05-31,Casablanca-Settat,Agriculture,804,500,5274
+2023-06-30,Casablanca-Settat,Agriculture,907,484,4446
+2023-07-31,Casablanca-Settat,Agriculture,678,401,4443
+2023-08-31,Casablanca-Settat,Agriculture,631,423,4578
+2023-09-30,Casablanca-Settat,Agriculture,1187,872,5207
+2023-10-31,Casablanca-Settat,Agriculture,1026,457,5430
+2023-11-30,Casablanca-Settat,Agriculture,867,644,5610
+2023-12-31,Casablanca-Settat,Agriculture,674,311,4679
+2023-01-31,Casablanca-Settat,Technologies,1229,973,8412
+2023-02-28,Casablanca-Settat,Technologies,632,357,7799
+2023-03-31,Casablanca-Settat,Technologies,693,348,9180
+2023-04-30,Casablanca-Settat,Technologies,977,716,8834
+2023-05-31,Casablanca-Settat,Technologies,637,334,7565
+2023-06-30,Casablanca-Settat,Technologies,886,460,8448
+2023-07-31,Casablanca-Settat,Technologies,944,712,8003
+2023-08-31,Casablanca-Settat,Technologies,790,600,8598
+2023-09-30,Casablanca-Settat,Technologies,963,577,8719
+2023-10-31,Casablanca-Settat,Technologies,681,447,8041
+2023-11-30,Casablanca-Settat,Technologies,603,431,8828
+2023-12-31,Casablanca-Settat,Technologies,719,464,9299
+2023-01-31,Casablanca-Settat,Tourisme,517,209,5475
+2023-02-28,Casablanca-Settat,Tourisme,651,457,4881
+2023-03-31,Casablanca-Settat,Tourisme,685,529,5163
+2023-04-30,Casablanca-Settat,Tourisme,715,347,5281
+2023-05-31,Casablanca-Settat,Tourisme,935,451,4871
+2023-06-30,Casablanca-Settat,Tourisme,932,599,5177
+2023-07-31,Casablanca-Settat,Tourisme,1270,725,5482
+2023-08-31,Casablanca-Settat,Tourisme,865,673,4942
+2023-09-30,Casablanca-Settat,Tourisme,809,386,5252
+2023-10-31,Casablanca-Settat,Tourisme,704,414,5955
+2023-11-30,Casablanca-Settat,Tourisme,466,205,4301
+2023-12-31,Casablanca-Settat,Tourisme,666,351,5675
+2023-01-31,Rabat-Salé-Kénitra,Industrie,752,384,4935
+2023-02-28,Rabat-Salé-Kénitra,Industrie,865,564,4883
+2023-03-31,Rabat-Salé-Kénitra,Industrie,663,369,4877
+2023-04-30,Rabat-Salé-Kénitra,Industrie,576,427,4733
+2023-05-31,Rabat-Salé-Kénitra,Industrie,579,383,4364
+2023-06-30,Rabat-Salé-Kénitra,Industrie,827,407,4803
+2023-07-31,Rabat-Salé-Kénitra,Industrie,626,364,5420
+2023-08-31,Rabat-Salé-Kénitra,Industrie,647,412,4897
+2023-09-30,Rabat-Salé-Kénitra,Industrie,405,176,4710
+2023-10-31,Rabat-Salé-Kénitra,Industrie,681,515,5917
+2023-11-30,Rabat-Salé-Kénitra,Industrie,472,352,5293
+2023-12-31,Rabat-Salé-Kénitra,Industrie,678,441,5223
+2023-01-31,Rabat-Salé-Kénitra,Services,621,336,5441
+2023-02-28,Rabat-Salé-Kénitra,Services,571,229,6487
+2023-03-31,Rabat-Salé-Kénitra,Services,556,433,7429
+2023-04-30,Rabat-Salé-Kénitra,Services,882,416,5586
+2023-05-31,Rabat-Salé-Kénitra,Services,667,528,6051
+2023-06-30,Rabat-Salé-Kénitra,Services,787,393,6243
+2023-07-31,Rabat-Salé-Kénitra,Services,678,512,6899
+2023-08-31,Rabat-Salé-Kénitra,Services,835,449,6842
+2023-09-30,Rabat-Salé-Kénitra,Services,619,273,6776
+2023-10-31,Rabat-Salé-Kénitra,Services,578,365,4805
+2023-11-30,Rabat-Salé-Kénitra,Services,596,440,5840
+2023-12-31,Rabat-Salé-Kénitra,Services,763,328,5904
+2023-01-31,Rabat-Salé-Kénitra,Agriculture,511,395,5025
+2023-02-28,Rabat-Salé-Kénitra,Agriculture,684,306,4734
+2023-03-31,Rabat-Salé-Kénitra,Agriculture,861,473,4992
+2023-04-30,Rabat-Salé-Kénitra,Agriculture,749,333,4657
+2023-05-31,Rabat-Salé-Kénitra,Agriculture,795,337,4947
+2023-06-30,Rabat-Salé-Kénitra,Agriculture,424,178,5657
+2023-07-31,Rabat-Salé-Kénitra,Agriculture,685,395,5177
+2023-08-31,Rabat-Salé-Kénitra,Agriculture,604,280,4589
+2023-09-30,Rabat-Salé-Kénitra,Agriculture,817,414,5190
+2023-10-31,Rabat-Salé-Kénitra,Agriculture,887,471,4923
+2023-11-30,Rabat-Salé-Kénitra,Agriculture,434,331,4425
+2023-12-31,Rabat-Salé-Kénitra,Agriculture,883,369,5001
+2023-01-31,Rabat-Salé-Kénitra,Technologies,546,404,6522
+2023-02-28,Rabat-Salé-Kénitra,Technologies,545,359,7841
+2023-03-31,Rabat-Salé-Kénitra,Technologies,490,340,8502
+2023-04-30,Rabat-Salé-Kénitra,Technologies,537,269,8398
+2023-05-31,Rabat-Salé-Kénitra,Technologies,723,454,8441
+2023-06-30,Rabat-Salé-Kénitra,Technologies,652,269,8690
+2023-07-31,Rabat-Salé-Kénitra,Technologies,542,409,9491
+2023-08-31,Rabat-Salé-Kénitra,Technologies,624,488,8382
+2023-09-30,Rabat-Salé-Kénitra,Technologies,786,456,8479
+2023-10-31,Rabat-Salé-Kénitra,Technologies,557,349,7283
+2023-11-30,Rabat-Salé-Kénitra,Technologies,521,346,7566
+2023-12-31,Rabat-Salé-Kénitra,Technologies,567,429,7693
+2023-01-31,Rabat-Salé-Kénitra,Tourisme,448,221,5061
+2023-02-28,Rabat-Salé-Kénitra,Tourisme,587,414,5207
+2023-03-31,Rabat-Salé-Kénitra,Tourisme,618,361,5153
+2023-04-30,Rabat-Salé-Kénitra,Tourisme,720,522,4085
+2023-05-31,Rabat-Salé-Kénitra,Tourisme,649,434,4737
+2023-06-30,Rabat-Salé-Kénitra,Tourisme,588,365,5517
+2023-07-31,Rabat-Salé-Kénitra,Tourisme,877,578,5123
+2023-08-31,Rabat-Salé-Kénitra,Tourisme,827,616,4586
+2023-09-30,Rabat-Salé-Kénitra,Tourisme,571,235,4482
+2023-10-31,Rabat-Salé-Kénitra,Tourisme,704,537,4730
+2023-11-30,Rabat-Salé-Kénitra,Tourisme,749,396,5213
+2023-12-31,Rabat-Salé-Kénitra,Tourisme,701,298,5086
+2023-01-31,Fès-Meknès,Industrie,383,270,4076
+2023-02-28,Fès-Meknès,Industrie,654,384,5305
+2023-03-31,Fès-Meknès,Industrie,515,332,5873
+2023-04-30,Fès-Meknès,Industrie,607,431,5428
+2023-05-31,Fès-Meknès,Industrie,557,394,4980
+2023-06-30,Fès-Meknès,Industrie,639,369,4437
+2023-07-31,Fès-Meknès,Industrie,517,374,5138
+2023-08-31,Fès-Meknès,Industrie,444,217,3968
+2023-09-30,Fès-Meknès,Industrie,481,381,4005
+2023-10-31,Fès-Meknès,Industrie,339,214,5720
+2023-11-30,Fès-Meknès,Industrie,536,251,5950
+2023-12-31,Fès-Meknès,Industrie,593,360,4500
+2023-01-31,Fès-Meknès,Services,336,208,6221
+2023-02-28,Fès-Meknès,Services,452,228,5902
+2023-03-31,Fès-Meknès,Services,596,462,6760
+2023-04-30,Fès-Meknès,Services,401,187,7315
+2023-05-31,Fès-Meknès,Services,546,341,6185
+2023-06-30,Fès-Meknès,Services,542,251,5597
+2023-07-31,Fès-Meknès,Services,488,271,4985
+2023-08-31,Fès-Meknès,Services,558,269,6202
+2023-09-30,Fès-Meknès,Services,618,348,5792
+2023-10-31,Fès-Meknès,Services,371,272,5170
+2023-11-30,Fès-Meknès,Services,395,175,6301
+2023-12-31,Fès-Meknès,Services,534,221,5662
+2023-01-31,Fès-Meknès,Agriculture,617,300,6312
+2023-02-28,Fès-Meknès,Agriculture,405,323,5393
+2023-03-31,Fès-Meknès,Agriculture,549,345,4788
+2023-04-30,Fès-Meknès,Agriculture,655,434,5278
+2023-05-31,Fès-Meknès,Agriculture,420,283,5143
+2023-06-30,Fès-Meknès,Agriculture,547,296,4733
+2023-07-31,Fès-Meknès,Agriculture,496,355,5363
+2023-08-31,Fès-Meknès,Agriculture,436,246,4450
+2023-09-30,Fès-Meknès,Agriculture,837,517,5673
+2023-10-31,Fès-Meknès,Agriculture,595,357,4142
+2023-11-30,Fès-Meknès,Agriculture,447,188,4969
+2023-12-31,Fès-Meknès,Agriculture,504,357,5362
+2023-01-31,Fès-Meknès,Technologies,499,200,10259
+2023-02-28,Fès-Meknès,Technologies,538,236,8938
+2023-03-31,Fès-Meknès,Technologies,465,317,8561
+2023-04-30,Fès-Meknès,Technologies,555,248,8400
+2023-05-31,Fès-Meknès,Technologies,570,298,8680
+2023-06-30,Fès-Meknès,Technologies,477,320,7252
+2023-07-31,Fès-Meknès,Technologies,652,520,8364
+2023-08-31,Fès-Meknès,Technologies,530,271,7466
+2023-09-30,Fès-Meknès,Technologies,639,285,10273
+2023-10-31,Fès-Meknès,Technologies,592,382,8781
+2023-11-30,Fès-Meknès,Technologies,476,236,8122
+2023-12-31,Fès-Meknès,Technologies,513,362,8782
+2023-01-31,Fès-Meknès,Tourisme,411,216,5394
+2023-02-28,Fès-Meknès,Tourisme,538,425,4637
+2023-03-31,Fès-Meknès,Tourisme,632,338,5591
+2023-04-30,Fès-Meknès,Tourisme,486,366,5161
+2023-05-31,Fès-Meknès,Tourisme,283,127,4448
+2023-06-30,Fès-Meknès,Tourisme,641,402,3938
+2023-07-31,Fès-Meknès,Tourisme,725,336,5215
+2023-08-31,Fès-Meknès,Tourisme,640,445,4536
+2023-09-30,Fès-Meknès,Tourisme,648,434,5016
+2023-10-31,Fès-Meknès,Tourisme,655,511,4470
+2023-11-30,Fès-Meknès,Tourisme,300,143,4360
+2023-12-31,Fès-Meknès,Tourisme,481,384,5331
+2023-01-31,Marrakech-Safi,Industrie,633,371,4802
+2023-02-28,Marrakech-Safi,Industrie,510,282,5033
+2023-03-31,Marrakech-Safi,Industrie,379,228,5335
+2023-04-30,Marrakech-Safi,Industrie,586,370,4217
+2023-05-31,Marrakech-Safi,Industrie,422,304,4856
+2023-06-30,Marrakech-Safi,Industrie,311,242,6054
+2023-07-31,Marrakech-Safi,Industrie,489,226,5315
+2023-08-31,Marrakech-Safi,Industrie,401,318,4161
+2023-09-30,Marrakech-Safi,Industrie,454,347,4655
+2023-10-31,Marrakech-Safi,Industrie,478,203,4960
+2023-11-30,Marrakech-Safi,Industrie,578,291,4983
+2023-12-31,Marrakech-Safi,Industrie,517,297,5011
+2023-01-31,Marrakech-Safi,Services,344,174,6131
+2023-02-28,Marrakech-Safi,Services,514,409,6676
+2023-03-31,Marrakech-Safi,Services,321,166,7415
+2023-04-30,Marrakech-Safi,Services,547,401,5779
+2023-05-31,Marrakech-Safi,Services,456,345,6125
+2023-06-30,Marrakech-Safi,Services,453,353,6364
+2023-07-31,Marrakech-Safi,Services,409,262,6287
+2023-08-31,Marrakech-Safi,Services,396,279,5761
+2023-09-30,Marrakech-Safi,Services,419,196,5805
+2023-10-31,Marrakech-Safi,Services,511,258,6423
+2023-11-30,Marrakech-Safi,Services,615,373,5159
+2023-12-31,Marrakech-Safi,Services,335,251,6459
+2023-01-31,Marrakech-Safi,Agriculture,482,273,4828
+2023-02-28,Marrakech-Safi,Agriculture,776,509,4589
+2023-03-31,Marrakech-Safi,Agriculture,458,259,6165
+2023-04-30,Marrakech-Safi,Agriculture,513,237,4340
+2023-05-31,Marrakech-Safi,Agriculture,390,238,4517
+2023-06-30,Marrakech-Safi,Agriculture,564,359,4349
+2023-07-31,Marrakech-Safi,Agriculture,639,414,5408
+2023-08-31,Marrakech-Safi,Agriculture,581,350,4568
+2023-09-30,Marrakech-Safi,Agriculture,841,600,4610
+2023-10-31,Marrakech-Safi,Agriculture,657,375,4474
+2023-11-30,Marrakech-Safi,Agriculture,339,187,5222
+2023-12-31,Marrakech-Safi,Agriculture,446,267,5731
+2023-01-31,Marrakech-Safi,Technologies,546,343,6943
+2023-02-28,Marrakech-Safi,Technologies,558,353,7857
+2023-03-31,Marrakech-Safi,Technologies,468,205,7348
+2023-04-30,Marrakech-Safi,Technologies,549,367,8689
+2023-05-31,Marrakech-Safi,Technologies,565,288,7159
+2023-06-30,Marrakech-Safi,Technologies,614,439,6936
+2023-07-31,Marrakech-Safi,Technologies,625,256,8600
+2023-08-31,Marrakech-Safi,Technologies,496,224,6156
+2023-09-30,Marrakech-Safi,Technologies,754,426,6939
+2023-10-31,Marrakech-Safi,Technologies,329,175,8639
+2023-11-30,Marrakech-Safi,Technologies,703,431,7377
+2023-12-31,Marrakech-Safi,Technologies,552,431,8739
+2023-01-31,Marrakech-Safi,Tourisme,410,185,4125
+2023-02-28,Marrakech-Safi,Tourisme,535,225,5762
+2023-03-31,Marrakech-Safi,Tourisme,450,217,5197
+2023-04-30,Marrakech-Safi,Tourisme,510,243,5187
+2023-05-31,Marrakech-Safi,Tourisme,433,184,5062
+2023-06-30,Marrakech-Safi,Tourisme,566,241,5188
+2023-07-31,Marrakech-Safi,Tourisme,676,529,5410
+2023-08-31,Marrakech-Safi,Tourisme,522,263,5532
+2023-09-30,Marrakech-Safi,Tourisme,595,443,6032
+2023-10-31,Marrakech-Safi,Tourisme,630,409,4497
+2023-11-30,Marrakech-Safi,Tourisme,649,365,4173
+2023-12-31,Marrakech-Safi,Tourisme,716,490,4714
+2023-01-31,Tanger-Tétouan-Al Hoceïma,Industrie,482,274,4618
+2023-02-28,Tanger-Tétouan-Al Hoceïma,Industrie,404,262,5150
+2023-03-31,Tanger-Tétouan-Al Hoceïma,Industrie,407,239,4362
+2023-04-30,Tanger-Tétouan-Al Hoceïma,Industrie,406,184,5122
+2023-05-31,Tanger-Tétouan-Al Hoceïma,Industrie,471,249,5220
+2023-06-30,Tanger-Tétouan-Al Hoceïma,Industrie,420,219,4915
+2023-07-31,Tanger-Tétouan-Al Hoceïma,Industrie,659,362,4611
+2023-08-31,Tanger-Tétouan-Al Hoceïma,Industrie,494,362,4707
+2023-09-30,Tanger-Tétouan-Al Hoceïma,Industrie,536,240,4965
+2023-10-31,Tanger-Tétouan-Al Hoceïma,Industrie,661,409,4991
+2023-11-30,Tanger-Tétouan-Al Hoceïma,Industrie,651,469,4831
+2023-12-31,Tanger-Tétouan-Al Hoceïma,Industrie,427,238,5050
+2023-01-31,Tanger-Tétouan-Al Hoceïma,Services,614,307,4851
+2023-02-28,Tanger-Tétouan-Al Hoceïma,Services,380,197,5463
+2023-03-31,Tanger-Tétouan-Al Hoceïma,Services,506,347,5508
+2023-04-30,Tanger-Tétouan-Al Hoceïma,Services,326,244,6803
+2023-05-31,Tanger-Tétouan-Al Hoceïma,Services,551,283,5616
+2023-06-30,Tanger-Tétouan-Al Hoceïma,Services,469,205,6137
+2023-07-31,Tanger-Tétouan-Al Hoceïma,Services,600,271,6162
+2023-08-31,Tanger-Tétouan-Al Hoceïma,Services,525,238,7427
+2023-09-30,Tanger-Tétouan-Al Hoceïma,Services,385,234,6853
+2023-10-31,Tanger-Tétouan-Al Hoceïma,Services,516,317,5861
+2023-11-30,Tanger-Tétouan-Al Hoceïma,Services,349,186,7285
+2023-12-31,Tanger-Tétouan-Al Hoceïma,Services,342,143,6214
+2023-01-31,Tanger-Tétouan-Al Hoceïma,Agriculture,477,206,5136
+2023-02-28,Tanger-Tétouan-Al Hoceïma,Agriculture,297,177,4688
+2023-03-31,Tanger-Tétouan-Al Hoceïma,Agriculture,545,428,5590
+2023-04-30,Tanger-Tétouan-Al Hoceïma,Agriculture,519,232,5783
+2023-05-31,Tanger-Tétouan-Al Hoceïma,Agriculture,441,259,4044
+2023-06-30,Tanger-Tétouan-Al Hoceïma,Agriculture,617,371,4598
+2023-07-31,Tanger-Tétouan-Al Hoceïma,Agriculture,436,263,4883
+2023-08-31,Tanger-Tétouan-Al Hoceïma,Agriculture,418,205,5084
+2023-09-30,Tanger-Tétouan-Al Hoceïma,Agriculture,706,358,4906
+2023-10-31,Tanger-Tétouan-Al Hoceïma,Agriculture,563,369,5303
+2023-11-30,Tanger-Tétouan-Al Hoceïma,Agriculture,412,263,4985
+2023-12-31,Tanger-Tétouan-Al Hoceïma,Agriculture,623,415,4569
+2023-01-31,Tanger-Tétouan-Al Hoceïma,Technologies,509,213,6764
+2023-02-28,Tanger-Tétouan-Al Hoceïma,Technologies,551,240,8081
+2023-03-31,Tanger-Tétouan-Al Hoceïma,Technologies,561,338,8828
+2023-04-30,Tanger-Tétouan-Al Hoceïma,Technologies,370,264,8648
+2023-05-31,Tanger-Tétouan-Al Hoceïma,Technologies,725,521,7921
+2023-06-30,Tanger-Tétouan-Al Hoceïma,Technologies,564,398,7799
+2023-07-31,Tanger-Tétouan-Al Hoceïma,Technologies,453,193,7598
+2023-08-31,Tanger-Tétouan-Al Hoceïma,Technologies,520,302,6827
+2023-09-30,Tanger-Tétouan-Al Hoceïma,Technologies,720,499,7673
+2023-10-31,Tanger-Tétouan-Al Hoceïma,Technologies,455,263,8536
+2023-11-30,Tanger-Tétouan-Al Hoceïma,Technologies,558,272,7938
+2023-12-31,Tanger-Tétouan-Al Hoceïma,Technologies,437,322,8615
+2023-01-31,Tanger-Tétouan-Al Hoceïma,Tourisme,399,287,4565
+2023-02-28,Tanger-Tétouan-Al Hoceïma,Tourisme,454,195,5097
+2023-03-31,Tanger-Tétouan-Al Hoceïma,Tourisme,501,352,5316
+2023-04-30,Tanger-Tétouan-Al Hoceïma,Tourisme,687,541,5231
+2023-05-31,Tanger-Tétouan-Al Hoceïma,Tourisme,438,212,4487
+2023-06-30,Tanger-Tétouan-Al Hoceïma,Tourisme,680,298,4895
+2023-07-31,Tanger-Tétouan-Al Hoceïma,Tourisme,712,407,5274
+2023-08-31,Tanger-Tétouan-Al Hoceïma,Tourisme,872,411,4040
+2023-09-30,Tanger-Tétouan-Al Hoceïma,Tourisme,600,385,5007
+2023-10-31,Tanger-Tétouan-Al Hoceïma,Tourisme,462,321,5336
+2023-11-30,Tanger-Tétouan-Al Hoceïma,Tourisme,489,250,5289
+2023-12-31,Tanger-Tétouan-Al Hoceïma,Tourisme,378,302,4778
+2023-01-31,Souss-Massa,Industrie,515,272,4837
+2023-02-28,Souss-Massa,Industrie,397,196,3930
+2023-03-31,Souss-Massa,Industrie,390,306,4781
+2023-04-30,Souss-Massa,Industrie,471,197,4851
+2023-05-31,Souss-Massa,Industrie,548,363,4846
+2023-06-30,Souss-Massa,Industrie,585,418,4815
+2023-07-31,Souss-Massa,Industrie,386,287,5336
+2023-08-31,Souss-Massa,Industrie,656,344,5268
+2023-09-30,Souss-Massa,Industrie,530,312,5098
+2023-10-31,Souss-Massa,Industrie,510,225,4890
+2023-11-30,Souss-Massa,Industrie,546,261,5471
+2023-12-31,Souss-Massa,Industrie,429,297,5126
+2023-01-31,Souss-Massa,Services,665,375,5146
+2023-02-28,Souss-Massa,Services,425,245,4873
+2023-03-31,Souss-Massa,Services,520,212,6142
+2023-04-30,Souss-Massa,Services,508,233,6503
+2023-05-31,Souss-Massa,Services,330,193,5683
+2023-06-30,Souss-Massa,Services,521,403,6555
+2023-07-31,Souss-Massa,Services,416,179,5861
+2023-08-31,Souss-Massa,Services,592,465,7201
+2023-09-30,Souss-Massa,Services,383,216,6087
+2023-10-31,Souss-Massa,Services,532,240,4995
+2023-11-30,Souss-Massa,Services,546,365,5810
+2023-12-31,Souss-Massa,Services,485,250,5191
+2023-01-31,Souss-Massa,Agriculture,567,451,4094
+2023-02-28,Souss-Massa,Agriculture,525,318,4187
+2023-03-31,Souss-Massa,Agriculture,574,427,4900
+2023-04-30,Souss-Massa,Agriculture,497,357,5144
+2023-05-31,Souss-Massa,Agriculture,538,293,4656
+2023-06-30,Souss-Massa,Agriculture,487,261,5692
+2023-07-31,Souss-Massa,Agriculture,599,402,4684
+2023-08-31,Souss-Massa,Agriculture,423,283,5370
+2023-09-30,Souss-Massa,Agriculture,650,440,5635
+2023-10-31,Souss-Massa,Agriculture,693,424,5228
+2023-11-30,Souss-Massa,Agriculture,408,210,4801
+2023-12-31,Souss-Massa,Agriculture,642,318,4512
+2023-01-31,Souss-Massa,Technologies,536,270,8285
+2023-02-28,Souss-Massa,Technologies,567,342,8378
+2023-03-31,Souss-Massa,Technologies,373,210,8860
+2023-04-30,Souss-Massa,Technologies,496,293,8987
+2023-05-31,Souss-Massa,Technologies,370,246,9655
+2023-06-30,Souss-Massa,Technologies,507,225,7689
+2023-07-31,Souss-Massa,Technologies,588,328,8862
+2023-08-31,Souss-Massa,Technologies,608,388,8141
+2023-09-30,Souss-Massa,Technologies,551,374,8029
+2023-10-31,Souss-Massa,Technologies,592,439,7166
+2023-11-30,Souss-Massa,Technologies,547,247,8160
+2023-12-31,Souss-Massa,Technologies,549,228,8477
+2023-01-31,Souss-Massa,Tourisme,316,161,4346
+2023-02-28,Souss-Massa,Tourisme,216,155,4637
+2023-03-31,Souss-Massa,Tourisme,524,337,5515
+2023-04-30,Souss-Massa,Tourisme,454,274,5376
+2023-05-31,Souss-Massa,Tourisme,522,303,5061
+2023-06-30,Souss-Massa,Tourisme,725,360,4769
+2023-07-31,Souss-Massa,Tourisme,600,257,4989
+2023-08-31,Souss-Massa,Tourisme,807,442,5365
+2023-09-30,Souss-Massa,Tourisme,309,148,4804
+2023-10-31,Souss-Massa,Tourisme,486,210,4777
+2023-11-30,Souss-Massa,Tourisme,439,279,3656
+2023-12-31,Souss-Massa,Tourisme,594,336,5053
