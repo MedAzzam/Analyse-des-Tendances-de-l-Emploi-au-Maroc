@@ -32,7 +32,7 @@ pip install -r requirements.txt
 ## Utilisation
 1. Exécuter l'analyse principale :
    ```python
-   python src/script_main.py
+   python src/main_script.py
    ```
 2. Ouvrir le dashboard Power BI dans `visualizations/dashboard.pbix`
 
